@@ -1,4 +1,30 @@
-﻿## 🌐 Socials:
+﻿# Hi there, I'm Hazem Yasser! 👋
+
+<div align="center">
+
+### Full Stack Developer | React Enthusiast | Mobile App Developer
+
+Passionate about building scalable web applications and mobile experiences with modern technologies.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/hazemyasserprg)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on full-stack web and mobile applications
+- 🌱 I'm continuously learning new technologies and best practices
+- 👯 I'm open to collaborating on interesting projects
+- 💬 Ask me about React, Node.js, or mobile development
+- 📫 How to reach me: [hazemyasserprg@gmail.com](mailto:hazemyasserprg@gmail.com)
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
+
+---
+
+## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1035197287980355665)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hazemyasserprg)
