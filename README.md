@@ -1,4 +1,4 @@
-﻿# Hi there, I'm Hazem Yasser!
+# Hi there, I'm Hazem!
 
 <div align="center">
 
