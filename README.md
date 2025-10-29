@@ -1,4 +1,4 @@
-﻿# Hi there, I'm Hazem Yasser! 👋
+﻿# Hi there, I'm Hazem Yasser!
 
 <div align="center">
 
@@ -13,18 +13,20 @@ Passionate about building scalable web applications and mobile experiences with 
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 I'm currently working on full-stack web and mobile applications
-- 🌱 I'm continuously learning new technologies and best practices
-- 👯 I'm open to collaborating on interesting projects
-- 💬 Ask me about React, Node.js, or mobile development
-- 📫 How to reach me: [hazemyasserprg@gmail.com](mailto:hazemyasserprg@gmail.com)
-- ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
+![Working](https://img.shields.io/badge/Currently-Working%20on%20Full--Stack-blue?style=flat-square) ![Learning](https://img.shields.io/badge/Always-Learning-green?style=flat-square) ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-orange?style=flat-square)
+
+- **Current Focus**: Full-stack web and mobile applications
+- **Learning**: New technologies and best practices
+- **Collaboration**: Open to interesting projects
+- **Expertise**: React, Node.js, and mobile development
+- **Contact**: [hazemyasserprg@gmail.com](mailto:hazemyasserprg@gmail.com)
+- **Fun Fact**: I love turning complex problems into simple, beautiful solutions
 
 ---
 
-## 🌐 Socials:
+## Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1035197287980355665)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hazemyasserprg)
@@ -36,7 +38,7 @@ Passionate about building scalable web applications and mobile experiences with 
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
