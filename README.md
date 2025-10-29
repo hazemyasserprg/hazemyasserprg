@@ -16,12 +16,12 @@ Passionate about building scalable web applications and mobile experiences with 
 
 ![Working](https://img.shields.io/badge/Currently-Working%20on%20Full--Stack-blue?style=flat-square) ![Learning](https://img.shields.io/badge/Always-Learning-green?style=flat-square) ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-orange?style=flat-square)
 
-- 🚀 **Current Focus**: Full-stack web and mobile applications
-- 📚 **Learning**: New technologies and best practices
-- 🤝 **Collaboration**: Open to interesting projects
-- 💡 **Expertise**: React, Node.js, and mobile development
-- 📧 **Contact**: [hazemyasserprg@gmail.com](mailto:hazemyasserprg@gmail.com)
-- ⚡ **Fun Fact**: I love turning complex problems into simple, beautiful solutions
+- **Current Focus**: Full-stack web and mobile applications
+- **Learning**: New technologies and best practices
+- **Collaboration**: Open to interesting projects
+- **Expertise**: React, Node.js, and mobile development
+- **Contact**: [hazemyasserprg@gmail.com](mailto:hazemyasserprg@gmail.com)
+- **Fun Fact**: I love turning complex problems into simple, beautiful solutions
 
 ---
 
