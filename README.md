@@ -6,7 +6,7 @@
 
 Passionate about building scalable web applications and mobile experiences with modern technologies.
 
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://hazem.vip)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hazem.vip)
 
 </div>
 
