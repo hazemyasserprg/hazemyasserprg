@@ -20,7 +20,7 @@ Passionate about building scalable web applications and mobile experiences with 
 - **Learning**: New technologies and best practices
 - **Collaboration**: Open to interesting projects
 - **Expertise**: React, Node.js, and mobile development
-- **Contact**: [hazemyasserprg@gmail.com](mailto:contact@hazem.vip)
+- **Contact**: [contact@hazem.vip](mailto:contact@hazem.vip)
 - **Fun Fact**: I love turning complex problems into simple, beautiful solutions
 
 ---
